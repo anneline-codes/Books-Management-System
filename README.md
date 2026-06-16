@@ -17,15 +17,8 @@ mugisha-bookstore/
 ```
 
 ## Setup & Run
-
-```bash
-# 1. Install dependencies
+```
 npm install
-
-# 2. Make sure MongoDB is running locally
-#    Or update MONGO_URI in .env with your Atlas connection string
-
-# 3. Start the server
 npm start          # production
 npm run dev        # development (auto-restart with nodemon)
 ```
